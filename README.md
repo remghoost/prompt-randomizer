@@ -9,6 +9,8 @@ If you want to run it from the script instead, do this.
 - Go into that directory and run `pip install requirements.txt`
 - Start with `python app.py`
 
+# Isn't there already an A111 extension for this...?
+Is there....? Idk. I vaguely looked and couldn't find one. So I made one.
 
 # But what does it do...?
 - Import your `styles.csv` file and it will break it up by commas. 
