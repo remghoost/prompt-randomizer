@@ -9,7 +9,7 @@ If you want to run it from the script instead, do this.
 - Go into that directory and run `pip install requirements.txt`
 - Start with `python app.py`
 
-# Isn't there already an A111 extension for this...?
+# Isn't there already an A1111 extension for this...?
 Is there....? Idk. I vaguely looked and couldn't find one. So I made a tool for it. I eventually want to make it into an extension.
 
 # But what does it do...?
